@@ -5,7 +5,10 @@ Sovellusprojektissa opiskelija saa kokemusta työelämän ohjelmistoprojektien s
 
 ## Ajankohtaista
 
-- Vaikka kurssin nimi ja kurssikoodi ovat samat, toteutustapa on aikaisempiin vuosiin verrattuna [erilainen]()
+- Vaikka kurssin nimi ja kurssikoodi ovat samat, toteutustapa on aikaisempiin vuosiin verrattuna
+  - dokumentointia on merkittävästi vähemmän
+  - kaikki koodaavat (voitte sisäisesti päättää erilaisia rooleja, esim. scrum master)
+  - Kurssia uudistetaan nyt - antakaa palautetta ja kertokaa, miten kurssi kannattaisi teistä toteutttaa. 
 - Kurssilla on [discord-kanava](https://discord.gg/ezmrZ8AMGw)
 - **Kurssilla kokeilukäytössä jatkuva palautteen keräys**. Anna palautetta kurssikäytännöistä [Norpassa](https://norppa.app.jyu.fi/targets/529/feedback)!
 
