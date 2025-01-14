@@ -1,13 +1,13 @@
-# TTIES405 Sovellusprojekti (10–15 op)
+# TIES405 Sovellusprojekti (10–15 op)
 
 Sovellusprojektissa opiskelija saa kokemusta työelämän ohjelmistoprojektien suunnittelusta, hallinnasta, läpiviennistä ja raportoinnista, ryhmätyöstä ja tilaajan kanssa toimimisesta sekä projektityössä tarvittavasta kirjallisesta ja suullisesta viestinnästä. Opiskelija saa myös käytännön kokemusta kurssien harjoitustöitä laajempien sovellusten määrittelystä, suunnittelusta, toteuttamisesta ja testaamisesta sekä tarvittavien dokumenttien laatimisesta. Sovellusprojekti edellyttää 250-400 tunnin työmäärää noin neljän kuukauden aikana, joten sille on varattava aikaa vähintään 20-30 tuntia viikossa. 
 
 
 ## Ajankohtaista
 
+- Vaikka kurssin nimi ja kurssikoodi ovat samat, toteutustapa on aikaisempiin vuosiin verrattuna [erilainen]()
 - Kurssilla on [discord-kanava](https://discord.gg/ezmrZ8AMGw)
-
-**Kurssilla kokeilukäytössä jatkuva palautteen keräys**. Anna palautetta kurssikäytännöistä [Norpassa](https://norppa.app.jyu.fi/targets/529/feedback)!
+- **Kurssilla kokeilukäytössä jatkuva palautteen keräys**. Anna palautetta kurssikäytännöistä [Norpassa](https://norppa.app.jyu.fi/targets/529/feedback)!
 
 Aikataulu:
 
@@ -66,14 +66,14 @@ Perustakaa **heti** jonkinlainen yhteinen TODO-lista. Kirjatkaa sinne nollasprin
 
 ### Projektisuunnitelma
 
-Kirjoita alkuun lyhyt projektisuunnitelma, jossa kuvaat kehitettävää sovellusta yleisellä tasolla (projektin README). Millainen valmis projekti vähintään on? Toiminnallisuuden tarkempi kuvaaminen menee backlogiin. 
+Haastattele asiakasta ja kirjoita mahdollisimman pian projektisuunnitelma, jossa kuvaat kehitettävää sovellusta yleisellä tasolla (projektin README). Millainen valmis projekti vähintään on (MVP)? Toiminnallisuuden tarkempi kuvaaminen kirjoitetaan backlogiin ja tulee varmasti elämään projektin aikana. 
 
 ### Backlogit
 
 - **DEEP** Product Backlog pitää olla [DEEP](https://www.romanpichler.com/blog/make-the-product-backlog-deep/).
 - **User storyt** Vaatimukset User Story -muodossa. INVEST on tärkeä!
 - **Hyväksymiskriteerit** Storylla pitää olla hyväksymiskriteerit (Acceptance critieria), jos se on Product Backlogissa korkealla (=tulee kohta tehtäväksi). Kriteerit kannattaa käydä läpi koko tiimin ja asiakkaan kanssa, vaikka kaikkia ei tarvitse kirjoittaa asiakkaan läsnäollessa. Lue hyvistä käytännöistä alla.
-  - lue lisää hyväksymiskriteereistä omasta [ohjeestaan](https://github.com/ohtu-ohjaajat/opiskelijalle/blob/master/ohje-hyv%C3%A4ksymiskriteerit.md)
+  - lue lisää hyväksymiskriteereistä omasta [ohjeestaan](/ohje-hyv%C3%A4ksymiskriteerit.md)
 - **Storyjen seuranta** Seurataan missä sprintissä valmistuneen storyn tekeminen on aloitettu. Tarkoituksena on, että kaikki storyt olisivat valmiita samassa sprintissä kuin ne on aloitettu, mutta metriikoiden optimointi ei saa missään nimessä olla itsetarkoitus — storyn pitää olla aidosti laadukkaasti tehty ja muilta osin valmis ennen kuin se lasketaan tehdyksi.
 
 ### Scrum-tapaamiset
@@ -103,7 +103,7 @@ Kirjoita alkuun lyhyt projektisuunnitelma, jossa kuvaat kehitettävää sovellus
 
 - **Tuntikirjapito** Kurssin aikana seurataan tuntimääriä. Työtunneiksi lasketaan myös tapaamiset, esim. tiimin kanssa yhdessä lounastamiset ja itseopiskelu.
   - Kirjaukset oltava kunnossa su 23:59 sekä sprintin vaihtuessa - mielummin päivittäin.
-- **Commit esiin** Varmista että committisi näkyvät GitHubissa oikein. Ks. [ohje](https://github.com/mluukkai/ohjelmistotuotanto2018/wiki/miniprojektin-arvosteluperusteet#commitit-kadoksissa)
+- **Commit esiin** Varmista että committisi näkyvät GitHubissa oikein. Ks. [ohje](https://ohjelmistotuotanto-jyu.github.io/miniprojektin_arvosteluperusteet/#commitit-kadoksissa)
 - **Tasaisuus** Ehdottomana vaatimuksena työmäärien tasaisuus viikkotasolla, eli tuntimäärän kuuluu olla viikosta toiseen suunnilleen sama. Sairastumiset yms. neuvoteltava poikkeus. Ilmoita reilusti etukäteen jos tiedät, että osallistumisesi viikon töihin estyy jollain tapaa.
 - **Kunnioita** kanssaopiskelijoitasi, kyseessä ei ole yksilökurssi. 
   - Käyttäydy samojen standardien mukaan kuin olisit töissä.
@@ -132,7 +132,7 @@ Kirjoita alkuun lyhyt projektisuunnitelma, jossa kuvaat kehitettävää sovellus
 - Ketterät toimintatavat
   - Transparency
   - Inspect & Adapt
-- [Miksi Scrum(ish)?](learning-goals-of-software-engineering-lab.md) Kirjoitus ohtuprojektin tavoitteista ja miten scrum auttaa niiden saavuttamisessa.
+
 
 ## Vinkkejä
 - Töitä kannattaa tehdä mahdollisimman paljon muiden kanssa fyysisesti samassa tilassa.
@@ -150,12 +150,5 @@ Kirjoita alkuun lyhyt projektisuunnitelma, jossa kuvaat kehitettävää sovellus
 ## Käytännön ohjeita
 
 - **Tilat:** 
-  - 
+  Kurssilaiset voivat käyttää luokkaa AgC331.3 - tai muuta haluamaansa tilaa. Luokan AgC331.3 käyttäjätunnuksista ja kulkuoikeuksista lähetetään sähköpostia kurssin ensimmäisellä viikolla.
 
-## Ohtuprojekti staging
-
-Staging nykyään Tiken [OpenShift](https://github.com/HY-TKTL/TKT20007-Ohjelmistotuotantoprojekti/blob/master/openshift/README.md)-klusterissa
-
-## Parhaat käytänteet
-
-Aina ei tarvitse keksiä pyörää uudelleen - katso vinkkejä [täältä](best-practices.md) tai [edellisten ryhmien repoista](history/).
