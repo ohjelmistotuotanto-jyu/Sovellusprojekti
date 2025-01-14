@@ -11,6 +11,7 @@ Sovellusprojektissa opiskelija saa kokemusta työelämän ohjelmistoprojektien s
   - Kurssia uudistetaan nyt - antakaa palautetta ja kertokaa, miten kurssi kannattaisi teistä toteutttaa. 
 - Kurssilla on [discord-kanava](https://discord.gg/ezmrZ8AMGw)
 - **Kurssilla kokeilukäytössä jatkuva palautteen keräys**. Anna palautetta kurssikäytännöistä [Norpassa](https://norppa.app.jyu.fi/targets/529/feedback)!
+- Kurssi on mahdollista korvata työkokemuksella. Tästä on erillinen [ohje](korvaus.md)
 
 Aikataulu:
 
@@ -42,6 +43,7 @@ Arvostelu perustuu seuraaviin asioihin
 - Tarkastellaan jatkuvasti prosessin toimivuutta Sprint Retrospectivessä. 
   - Transparency, Inspect & Adapt! 
 - Ensimmäisessä asiakastapaamisessa pyritään määrittelemään [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product), koska tarkoituksena on saada ohjelma tuotantoon mahdollisimman nopeasti.
+- Suunnitelkaa ajankäyttö ennakkoon ja kirjatkaa toteutunut ajankäyttö erikseen. Voitte itse luoda pohjan, millä seuraatte ajankäytöänne. [Tässä on esimerkki](https://docs.google.com/spreadsheets/d/1bIrpnxBsarBAeqiRuar8L4uPBiIm-7NpyrQh_C0UpZE/edit?gid=1685552279#gid=1685552279) ajankäytön raportoinnista eräästä Helsingin yliopiston sovellusprojektikurssin projektista. 
 
 ### Nollasprintti
 
