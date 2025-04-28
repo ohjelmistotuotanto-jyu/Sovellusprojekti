@@ -1,7 +1,10 @@
 # TIES405 Sovellusprojekti (10–15 op)
 
-Sovellusprojektissa opiskelija saa kokemusta työelämän ohjelmistoprojektien suunnittelusta, hallinnasta, läpiviennistä ja raportoinnista, ryhmätyöstä ja tilaajan kanssa toimimisesta sekä projektityössä tarvittavasta kirjallisesta ja suullisesta viestinnästä. Opiskelija saa myös käytännön kokemusta kurssien harjoitustöitä laajempien sovellusten määrittelystä, suunnittelusta, toteuttamisesta ja testaamisesta sekä tarvittavien dokumenttien laatimisesta. Sovellusprojekti edellyttää 250-400 tunnin työmäärää noin neljän kuukauden aikana, joten sille on varattava aikaa vähintään 20-30 tuntia viikossa. 
+Sovellusprojektissa opiskelija saa kokemusta työelämän ohjelmistoprojektien suunnittelusta, hallinnasta, läpiviennistä ja raportoinnista, ryhmätyöstä ja tilaajan kanssa toimimisesta sekä projektityössä tarvittavasta kirjallisesta ja suullisesta viestinnästä. Opiskelija saa myös käytännön kokemusta kurssien harjoitustöitä laajempien sovellusten määrittelystä, suunnittelusta, toteuttamisesta ja testaamisesta sekä tarvittavien dokumenttien laatimisesta. Sovellusprojekti edellyttää 250-400 tunnin työmäärää noin neljän kuukauden aikana, joten sille on varattava aikaa vähintään 20-30 tuntia viikossa.
 
+Kurssilta saatavien opintoviikkojen määärä riippuu suoraan tunkikirjanpitoon merkityistä tunneistä. 250-270 tuntia työtä on 10op. Mikäli tunteja on kirjattu tätä enemmän, niin opintopistemäärä saadaan jakamalla tehdyt tunnit luvulla 27 (tulos pyöristetään lähimpään kokonaislukuun).
+
+Kurssin arvosana perustuu itsearviointiin, vertaisarviointiin ja ohjaajien arviointiin.
 
 ## Ajankohtaista
 
