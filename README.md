@@ -8,6 +8,7 @@ Kurssin arvosana perustuu itsearviointiin, vertaisarviointiin ja ohjaajien arvio
 
 ## Ajankohtaista
 
+- Kurssin loppudemot pidetään 22.5. klo 11-13 luokassa Ag B121.1, Beeta. Ohjeet valmistautumiseen löytyvät [täältä](https://tim.jyu.fi/view/kurssit/tie/proj/2025/yleinen/loppudemo#loppuesittelyyn-valmistautuminen)
 - Vaikka kurssin nimi ja kurssikoodi ovat samat, toteutustapa on aikaisempiin vuosiin verrattuna
   - dokumentointia on merkittävästi vähemmän
   - kaikki koodaavat (voitte sisäisesti päättää erilaisia rooleja, esim. scrum master)
